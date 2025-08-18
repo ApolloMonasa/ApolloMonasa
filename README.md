@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**ApolloMonasa/ApolloMonasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi , I am ApolloMonasa!
 
 Here are some ideas to get you started:
 
