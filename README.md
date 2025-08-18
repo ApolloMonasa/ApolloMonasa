@@ -1,5 +1,5 @@
 ## Hi , I am ApolloMonasa!
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
