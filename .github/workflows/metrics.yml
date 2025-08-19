@@ -1,29 +1,59 @@
+# ----------------------------------------------------------------------
 # 文件名: .github/workflows/metrics.yml
-name: Isometric Commit Calendar (Full Year)
+# 描述: 这是一个用于生成 GitHub 指标（Metrics）的工作流，
+#      特别是用于创建全年的等角视图提交日历。
+# ----------------------------------------------------------------------
+
+name: Generate GitHub Metrics
 
 on:
+  # 1. 定时触发：每天的 UTC 时间凌晨 0 点自动运行一次
   schedule:
     - cron: "0 0 * * *"
+    
+  # 2. 手动触发：允许你在 Actions 页面手动点击 "Run workflow" 按钮来运行
   workflow_dispatch:
+  
+  # 3. 推送触发 (可选): 每当你向 main 分支推送代码时也运行一次
+  # 如果你只想每天更新，可以删除下面这两行
+  push:
+    branches:
+      - main
+
+# ❗️❗️❗️ 关键权限设置 ❗️❗️❗️
+# 授予工作流向你的仓库写入文件的权限。没有这一段，文件无法被创建。
+permissions:
+  contents: write
 
 jobs:
-  render_metrics:
+  # 定义一个名为 "build" 的作业
+  build:
+    # 在最新的 Ubuntu 系统上运行
     runs-on: ubuntu-latest
+    
+    # 作业的步骤
     steps:
-      - name: Generate isometric calendar
+      # 第一步：使用 lowlighter/metrics@latest 这个 Action
+      - name: Generate full-year isometric calendar
         uses: lowlighter/metrics@latest
         with:
-          # 输出的 SVG 文件名，建议用一个不同的名字以区分
+          # ------------------- 核心配置 -------------------
+          
+          # 必需: 你的个人访问令牌 (Personal Access Token)
+          # 这个令牌需要有 repo 和 read:user 权限
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 指定输出的 SVG 文件名
           filename: metrics.plugin.isocalendar.fullyear.svg
           
-          # 必需：你的个人访问令牌
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # 使用空的基础模板
+          # ------------------- 插件配置 -------------------
+          
+          # 使用一个空的基础模板，这样输出的 SVG 就只有插件的内容
           base: ""
           
-          # 启用 isocalendar 插件
+          # 启用 "isocalendar" 插件
           plugin_isocalendar: yes
           
-          # 设置插件显示时长为 "full-year"
+          # 设置插件的时长为 "full-year" (全年)
+          # 如果想换成半年，可以改成 "half-year"
           plugin_isocalendar_duration: full-year
