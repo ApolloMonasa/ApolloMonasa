@@ -9,6 +9,8 @@
 </a>
 </p>
 
+![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
+
 ## Things I use on a daily basis
 
 <p align="left">  
