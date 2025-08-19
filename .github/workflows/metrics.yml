@@ -1,0 +1,29 @@
+# 文件名: .github/workflows/metrics.yml
+name: Isometric Commit Calendar (Full Year)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  render_metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate isometric calendar
+        uses: lowlighter/metrics@latest
+        with:
+          # 输出的 SVG 文件名，建议用一个不同的名字以区分
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          
+          # 必需：你的个人访问令牌
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 使用空的基础模板
+          base: ""
+          
+          # 启用 isocalendar 插件
+          plugin_isocalendar: yes
+          
+          # 设置插件显示时长为 "full-year"
+          plugin_isocalendar_duration: full-year
