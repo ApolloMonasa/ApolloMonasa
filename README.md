@@ -3,11 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa&show_icons=true&theme=tokyonight)
 
 
-<p align="left">
-<a href="https://github.com/ApolloMonasa/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=Frontend%20Engineer%20&location=Hangzhou&fill=black">
-</a>
-</p>
 
 ![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
 
