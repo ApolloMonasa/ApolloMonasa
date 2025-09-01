@@ -1,7 +1,9 @@
 ## Hi , I am ApolloMonasa!
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%88%92%E6%B0%B4%E4%B8%AD-blue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa&show_icons=true&theme=tokyonight)
 
+![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa&show_icons=true&theme=tokyonight)
+![ApolloMonasa的bilibili](https://stats.justsong.cn/api/bilibili/?id1029459856=&theme=dark)
 
 
 ![Isometric Commit Calendar](metrics.plugin.isocalendar.fullyear.svg)
