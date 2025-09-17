@@ -1,6 +1,12 @@
 ## Hi , I am ApolloMonasa!
-![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%88%92%E6%B0%B4%E4%B8%AD-blue)
 
+<!-- 仅在深色模式下显示 -->
+![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<!-- 仅在浅色模式下显示 (可选，可以只用一种) -->
+![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa&show_icons=true&theme=tokyonight)
 ![ApolloMonasa的bilibili](https://stats.justsong.cn/api/bilibili/?id=1029459856&theme=dark)
