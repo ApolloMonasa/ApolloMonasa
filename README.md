@@ -1,12 +1,12 @@
 ## Hi , I am ApolloMonasa!
 
 <!-- 仅在深色模式下显示 -->
-![](https://github.com/ApolloMonasa/jstrieb/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/ApolloMonasa/jstrieb/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-dark-mode-only)
 
 <!-- 仅在浅色模式下显示 (可选，可以只用一种) -->
-![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-light-mode-only)
 
 ![ApolloMonasa的bilibili](https://stats.justsong.cn/api/bilibili/?id=1029459856&theme=dark)
 
