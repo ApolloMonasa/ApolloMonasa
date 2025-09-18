@@ -8,7 +8,6 @@
 ![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ApolloMonasa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-![Apollo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApolloMonasa&show_icons=true&theme=tokyonight)
 ![ApolloMonasa的bilibili](https://stats.justsong.cn/api/bilibili/?id=1029459856&theme=dark)
 
 
