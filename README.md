@@ -1,9 +1,9 @@
 ## Hi , I am ApolloMonasa!
 
 **Recently, I'am working on :**
-- My own database system---**Omybase**
-- The HUAWEI ICT contest
-- The annoying dull jobs in my university---HDU.
+- My own database system---**OmyBase**
+- The **HUAWEI ICT** contest
+- The annoying dull jobs in my university---**HDU**.
 <!-- 仅在深色模式下显示 -->
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-dark-mode-only)
