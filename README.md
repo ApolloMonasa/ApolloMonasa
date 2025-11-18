@@ -1,7 +1,7 @@
 ## Hi , I am ApolloMonasa!
 
 **Recently, I'am working on :**
-- My own database system---**OmyBase**
+- My own DBMS---**OmyBase**
 - The **HUAWEI ICT** contest
 - The annoying dull jobs in my university---**HDU**.
 <!-- 仅在深色模式下显示 -->
