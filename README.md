@@ -2,7 +2,9 @@
 
 **Recently, I'am working on :**
 - My own DBMS---**OmyBase**
-- The **HUAWEI ICT** contest
+- Seekdb Learning
+- Digital Design
+- Reviewing Finance
 - The annoying dull jobs in my university---**HDU**.
 <!-- 仅在深色模式下显示 -->
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
