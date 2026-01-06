@@ -1,11 +1,12 @@
 ## Hi , I am ApolloMonasa!
 
+I am a sophomore undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
+
 **Recently, I'am working on :**
 - My own DBMS---**OmyBase**
 - Seekdb Learning
 - Digital Design
 - Reviewing Finance
-- The annoying dull jobs in my university---**HDU**.
 <!-- 仅在深色模式下显示 -->
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-dark-mode-only)
