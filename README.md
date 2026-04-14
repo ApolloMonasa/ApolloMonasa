@@ -4,8 +4,9 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 
 **Recently, I'am working on :**
 - My own DBMS---**OmyBase**
+- Netease game demo development
 - Reviewing
-- Java Learning and MC modding
+- Java and Go learning
 <!-- 仅在深色模式下显示 -->
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-dark-mode-only)
