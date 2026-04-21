@@ -3,7 +3,6 @@
 I am a sophomore undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
 
 **Recently, I'am working on :**
-- My own DBMS---**OmyBase**
 - Netease game demo development
 - Reviewing
 - Java and Go learning
