@@ -24,7 +24,7 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 ### Frontend
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
@@ -33,7 +33,7 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
