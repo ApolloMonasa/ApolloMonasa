@@ -69,8 +69,6 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
 </a>
-<a href="https://img.shields.io/badge/Database-Development-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Development">
-</a>
-<a href="https://img.shields.io/badge/AscendC-Operator%20Development-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="AscendC Operator Development">
-</a>
+<img src="https://img.shields.io/badge/Database-Development-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Development">
+<img src="https://img.shields.io/badge/AscendC-Operator%20Development-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="AscendC Operator Development">
 </p>
