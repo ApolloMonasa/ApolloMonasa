@@ -47,6 +47,7 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 </p>
 
 ### Backend
+<p><strong>Languages & Frameworks</strong></p>
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=f89820">
@@ -66,9 +67,24 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=echo&svgfill=4A90E2">
 </a>
+</p>
+
+<p><strong>Database Development</strong></p>
+<p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479A1">
 </a>
-<img src="https://img.shields.io/badge/Database-Development-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Development">
-<img src="https://img.shields.io/badge/AscendC-Operator%20Development-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="AscendC Operator Development">
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791">
+</a>
+</p>
+
+<p><strong>AscendC Operator Development</strong></p>
+<p align="left">
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=huawei&svgfill=C7000B">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C">
+</a>
 </p>
