@@ -84,7 +84,4 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
 <a href="https://github.com/harish-sethuraman/readme-components">
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=huawei&svgfill=C7000B">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=00599C">
-</a>
 </p>
