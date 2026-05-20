@@ -62,10 +62,10 @@ I am a sophomore undergraduate student majoring in Computer Science from Hangzho
  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=gin&svgfill=00B386">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=%F0%9F%A5%83&desc=gin">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=echo&svgfill=4A90E2">
+ <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=%F0%9F%93%A3&desc=echo">
 </a>
 </p>
 
