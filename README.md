@@ -3,7 +3,9 @@
 I am a sophomore undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
 
 **Recently, I'am working on :**
-- Netease game demo development
+- Netease game demo development(Desp)
+- CSC-DB-contest
+- Ascend C op-dev learning
 - Reviewing
 - Java and Go learning
 <!-- 仅在深色模式下显示 -->
