@@ -1,6 +1,6 @@
 ## Hi , I am ApolloMonasa!
 
-I am a sophomore undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
+I am a sophomore/junior undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
 
 **Recently, I'am working on :**
 - 408
