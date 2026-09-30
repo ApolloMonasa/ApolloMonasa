@@ -2,10 +2,6 @@
 
 I am a sophomore/junior undergraduate student majoring in Computer Science from Hangzhou Dianzi University.
 
-**Recently, I'am working on :**
-- 408
-- C/C++
-- Java/GO
 <!-- 仅在深色模式下显示 -->
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ApolloMonasa/jstrieb/master/generated/languages.svg#gh-dark-mode-only)
